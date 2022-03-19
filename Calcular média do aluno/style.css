@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.container {
+    margin: 5px;
+    background-color: #8e5d52;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding: 36px;
+    color: white;
+    margin-top: 2px;
+}
+h1 {
+    margin: 5px;
+    background-color: darkgrey;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding: 35px;
+    color: white;
+    margin-bottom: 25px;
+    text-align: center;
+    
+}
+body {
+    background-color: #8e5d52;
+}
